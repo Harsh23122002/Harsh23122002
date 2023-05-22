@@ -2,15 +2,13 @@
 <html lang="en">
 
 <body>
-  <h1 align="center">Hi 👋, I'm Kushal
+  <h1 align="center">Hi 👋, I'm Harsh
   </h1>
   <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
   <h3 align="center">Competitive Programmer</h3>
 
-<!--   - 🔭 I’m currently working on Mutual Funds Broker App  -->
-  - 🌱 I’m currently learning Love2D
 <!--   - 💬 Ask me about *JavaScript : React : Express Js : MongoDB* -->
-  - 📫 Reach me at *kushalbhattad07@gmail.com*
+  - 📫 Reach me at *harshgwaghmare@gmail.com*
 
   <p align="left"> <img
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
