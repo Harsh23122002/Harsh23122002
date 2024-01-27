@@ -1,5 +1,6 @@
-
 # Hello, I'm [Your Name]! 👋
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 ## About Me
 
