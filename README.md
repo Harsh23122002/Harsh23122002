@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name]! 👋
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FHarsh23122002.Harsh23122002%2Freadme)
 
 ## About Me
 
