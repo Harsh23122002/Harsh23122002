@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh23122002&label=Profile%20views&color=0e75b6&style=flat" alt="harsh23122002" /> </p>
 
 ## Connect with me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): <a href="https://linkedin.com/in/harsh-waghmare-1914bb154" target="blank">Harsh Waghmare</a>
+<a href="https://linkedin.com/in/harsh-waghmare-1914bb154" target="blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)</a>
 
 
 ## Skills
