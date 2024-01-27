@@ -1,31 +1,21 @@
-# Hello, I'm [Your Name]! 👋
+# Hi there, I'm Harsh Waghmare! 👋
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FHarsh23122002.Harsh23122002%2Freadme)
-
-## About Me
-
-Brief introduction about yourself, your interests, and what you do.
+I'm a passionate software developer with expertise in building web and mobile applications. I love to explore new technologies and contribute to open source projects.
 
 ## Skills
 
-- List some of your key skills or areas of expertise.
-- You can use bullet points or a sentence format.
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ## Projects
 
-- [Project 1 Name](Link to Project 1): Short description of what the project does.
-- [Project 2 Name](Link to Project 2): Short description of what the project does.
-- Add more projects if you have them.
+## - [Project 1 Name](Link to Project 1): Short description of what the project does.
+## - [Project 2 Name](Link to Project 2): Short description of what the project does.
+## - Add more projects if you have them.
 
-## Open Source Contributions
-
-- [Contribution 1](Link to Contribution 1): Description of the contribution and its impact.
-- [Contribution 2](Link to Contribution 2): Description of the contribution and its impact.
-- Add more contributions if you have them.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL](Link to your LinkedIn)
+- LinkedIn: https://www.linkedin.com/in/harsh-waghmare-1914bb154/(Link to your LinkedIn)
 - Twitter: [@YourTwitterHandle](Link to your Twitter profile)
 - Email: [Your Email Address](mailto:youremail@example.com)
 - Personal Website: [Your Website URL](Link to your personal website)
