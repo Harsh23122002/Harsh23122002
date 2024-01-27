@@ -6,11 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh23122002&label=Profile%20views&color=0e75b6&style=flat" alt="harsh23122002" /> </p>
 
 ## Connect with me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): [Your LinkedIn Profile URL](Link to your LinkedIn)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white): <a href="https://linkedin.com/in/harsh-waghmare-1914bb154" target="blank">abc</a>
 
-<p align="left">
-<a href="https://linkedin.com/in/harsh-waghmare-1914bb154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-waghmare-1914bb154" height="30" width="40" /></a>
-</p>
 
 ## Skills
 
