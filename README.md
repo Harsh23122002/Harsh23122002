@@ -9,7 +9,7 @@ I'm a passionate software developer with expertise in building web and mobile ap
 
 ## Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/harsh-waghmare-1914bb154/]
+- LinkedIn: https://www.linkedin.com/in/harsh-waghmare-1914bb154/
 - Email: harshgwaghmare@gmail.com(mailto:harshgwaghmare@gmail.com)
 
 Feel free to reach out! I'm always open to new connections and opportunities.
